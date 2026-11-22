@@ -1,8 +1,9 @@
 {
-  "id": "./index.html",
-  "name": "ANTRIAN DASHBOARD",
-  "short_name": "ANTRIAN-DASH",
-  "start_url": "./index.html",
+  "id": "/antrian-dashboard/",
+  "scope": "/antrian-dashboard/",
+  "start_url": "/antrian-dashboard/index.html",
+  "name": "dashboard antrian",
+  "short_name": "Dashboard OL",
   "display": "standalone",
   "background_color": "#1b1431",
   "theme_color": "#1b1431",
